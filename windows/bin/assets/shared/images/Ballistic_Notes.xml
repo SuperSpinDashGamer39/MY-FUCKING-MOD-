@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ballistic_Notes.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ballistic Note Down0000" x="0" y="0" width="152" height="150"/>
+	<SubTexture name="Ballistic Note Left0000" x="152" y="0" width="150" height="152"/>
+	<SubTexture name="Ballistic Note Right0000" x="302" y="0" width="150" height="152"/>
+	<SubTexture name="Ballistic Note Up0000" x="0" y="152" width="152" height="150"/>
+</TextureAtlas>
